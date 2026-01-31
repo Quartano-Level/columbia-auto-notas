@@ -25,13 +25,13 @@ export default function ResetPassword() {
     return (
         <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50 p-4">
             <div className="mb-8">
-                <Image
+                {/* <Image
                     src="/level.svg"
                     alt="Logo Level"
                     width={160}
                     height={40}
                     priority
-                />
+                /> */}
             </div>
             
             <Card className="w-full max-w-md">

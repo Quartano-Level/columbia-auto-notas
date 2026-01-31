@@ -12,8 +12,8 @@ interface SortConfig {
     direction: 'asc' | 'desc';
 }
 
-const API_URL = 'https://level-nfse.app.n8n.cloud/webhook/nfs-pendentes';
-const REPROCESS_API_URL = 'https://level-nfse.app.n8n.cloud/webhook/2549b8a5-a9e0-4855-a8c1-cbe6b9a2db4e/nfs-pendentes';
+const API_URL = 'https://columbia-nfse.app.n8n.cloud/webhook/nfs-pendentes';
+const REPROCESS_API_URL = 'https://columbia-nfse.app.n8n.cloud/webhook/2549b8a5-a9e0-4855-a8c1-cbe6b9a2db4e/nfs-pendentes';
 const ITEMS_PER_PAGE = 7;
 
 export function useNotasFiscais(initialParams: NotasParams = {}) {

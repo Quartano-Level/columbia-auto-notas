@@ -71,8 +71,7 @@ export default function Sidebar() {
                 {/* Logo */}
                 <div className="flex items-center justify-center mt-12">
                     <Link href="/notas">
-                        <Image src="/level.svg" alt="Level" width={200} height={200} />
-                    </Link>
+{/*                         <Image src="/level.svg" alt="Level" width={200} height={200} />*/}                    </Link>
                 </div>
 
                 <Separator className="my-6 opacity-0" />

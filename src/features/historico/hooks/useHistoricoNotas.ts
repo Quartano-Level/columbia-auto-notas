@@ -12,8 +12,8 @@ interface SortConfig {
 }
 
 // URL base da API
-const API_URL = 'https://level-nfse.app.n8n.cloud/webhook/nfs-pendentes';
-const API_URL_HISTORICO = "https://level-nfse.app.n8n.cloud/webhook/nfs-pendentes/historico"
+const API_URL = 'https://columbia-nfse.app.n8n.cloud/webhook/nfs-pendentes';
+const API_URL_HISTORICO = "https://columbia-nfse.app.n8n.cloud/webhook/nfs-pendentes/historico"
 
 // Número fixo de itens por página
 const ITEMS_PER_PAGE = 9;

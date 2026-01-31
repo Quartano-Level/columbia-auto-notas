@@ -19,8 +19,7 @@ export default function ResetPasswordPage() {
     <div className="flex min-h-screen flex-col items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
       <div className="w-full max-w-md">
         <div className="text-center mb-8 flex justify-center">
-          <Image src="/level.svg" alt="Logo" width={200} height={200} />
-        </div>
+{/*           <Image src="/level.svg" alt="Logo" width={200} height={200} />*/}        </div>
         <div className="text-center mb-8">
           <h2 className="text-2xl font-bold">Recuperar senha</h2>
           <p className="text-sm text-gray-600 mt-2">

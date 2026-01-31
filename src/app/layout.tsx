@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Level",
-  description: "Level",
+  title: "Columbia",
+  description: "Columbia",
 };
 
 export default function RootLayout({

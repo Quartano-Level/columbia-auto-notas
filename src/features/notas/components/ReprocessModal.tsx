@@ -23,7 +23,7 @@ interface ReprocessModalProps {
   isLoading?: boolean
 }
 
-const CONFIG_DOC_API_URL = 'https://level-nfse.app.n8n.cloud/webhook/get-config-doc-e-conta-de-projeto';
+const CONFIG_DOC_API_URL = 'https://columbia-nfse.app.n8n.cloud/webhook/get-config-doc-e-conta-de-projeto';
 
 /**
  * Componente de modal para reprocessamento de nota fiscal

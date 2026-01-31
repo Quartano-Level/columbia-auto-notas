@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import { Toaster } from "sonner";
 
 export const metadata: Metadata = {
-  title: "Level",
-  description: "Level",
+  title: "Columbia",
+  description: "Columbia",
 };
 
 export default function LevelLayout({ children }: { children: React.ReactNode }) {
